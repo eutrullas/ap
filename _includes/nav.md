@@ -12,3 +12,4 @@
 
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
+* [Notas Propias]({{ "/notes" | relative_url }})
