@@ -1,2 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [CS50 AP - Notas y Prgrama]({{ "/" | relative_url }})
 2019
+
+Eugenia Trullas
